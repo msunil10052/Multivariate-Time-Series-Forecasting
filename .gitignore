@@ -1,0 +1,5 @@
+*.csv
+setup.ipynb
+data/
+Notes.txt
+*.zip
