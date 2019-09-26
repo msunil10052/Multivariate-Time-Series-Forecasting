@@ -32,11 +32,9 @@ Here the dataset is Multivariate time series data. There are 9 attributes, they 
 
 # Modeling Methods:
 
-Here the dataset is 
+There are three classes of methods that might be interesting to explore on this problem; they are:
 
-There are perhaps three classes of methods that might be interesting to explore on this problem; they are:
-
-* Classical Linear Methods.
+* Classical Forecasting Methods.
 * Machine Learning Methods.
 * Deep Learning Methods.
 
