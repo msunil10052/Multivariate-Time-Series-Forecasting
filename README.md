@@ -8,7 +8,7 @@ In **multivariate, Time-Series** data, multiple variables will be varying over t
 Here we will address the problem using Classical Linear Models, Tree based algorithms, Ensemble Methods and Neural Network based Methods.
 
 # Problem Statement
-Your client is the city council of Paris, France. The council shared with you the data set and a data dictionary. The Paris city council leadership is interested in understanding the drivers behind the electricity consumption and are looking for data-driven recommendations for making policies on Effective usuage of electricity.
+Your client is the city council of Paris, France. The council shared with you the demo data set and a data dictionary. The Paris city council leadership is interested in understanding the drivers behind the electricity consumption and are looking for data-driven recommendations for making policies on Effective usuage of electricity.
 
 # Data Description
 This dataset contains electric power consumption in one household with a one-minute sampling rate over a period of almost 4 years. It was obtained from the UCI archive (https://archive.ics.uci.edu). This archive contains 2075259 measurements gathered in a house located in Sceaux (7km of Paris, France) between December 2006 and November 2010 (47 months).
@@ -18,7 +18,7 @@ The data was originally published by
 Georges Hebrail (georges.hebrail '@' edf.fr), Senior Researcher, EDF R&D, Clamart, France
 Alice Berard, TELECOM ParisTech Master of Engineering Internship at EDF R&D, Clamart, France
 
-The are 9 attributes, they are:
+Here the dataset is Multivariate time series data. There are 9 attributes, they are:
 
 1.date: Date in format dd/mm/yyyy
 2.time: time in format hh:mm:ss
